@@ -1,7 +1,7 @@
 ## Hey! Welcome to my Page! I'm [Rodrigo!](https://github.com/RodrigoLPinheiro1001/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pinheiro-0b83b4363)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigolp._.2008/)
+
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoLPinheiro1001&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
