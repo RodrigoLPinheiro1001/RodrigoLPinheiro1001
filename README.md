@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RodrigoLPinheiro1001&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 I'm a passionate developer fascinated by emerging technologies and the endless possibilities of programming. I love exploring new tools, learning innovative approaches, and building projects that can make a meaningful difference in people's lives.
 
 🎓 Currently pursuing a Bachelor's Degree in Computer Engineering at ISEC Coimbra, Portugal.
